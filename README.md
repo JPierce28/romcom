@@ -30,7 +30,7 @@ This was our first collaborative project at Turing after only one full week of l
   - Document changes with atomic commits & thorough code reviews
   - Communicate, troubleshoot, and plan effectively as a team
 
-###Technology Used
+### Technology Used
 - Atom
 - HTML
 - CSS
