@@ -11,7 +11,7 @@ Who doesn't love a good romance novel? The first thing to grab your attention is
 
 ### Preview of App:
 You can visit our live site [here](https://jmyacobn.github.io/romcom/). See preview below.
-[insert image]
+![Screen Shot 2022-09-04 at 11 47 12 AM](https://user-images.githubusercontent.com/110264166/188329092-70581888-40c2-477a-ab43-6e70f4402db3.png)
 
 ### Context:
 This was our first collaborative project at Turing after only one full week of learning. We had five days to work on the project, while also balancing our courses, meetings, and other assignments. Check out the project specifications [here](https://frontend.turing.edu/projects/module-1/romcom-pair-v2.html).
@@ -47,3 +47,4 @@ This was our first collaborative project at Turing after only one full week of l
 ### Challenges
 - Newness of collaborative Github workflow was challenging at first, but both partners eventually gained confidence in using it effectively
 - Deleting covers functionality in Iteration 4 proved to be a challenge but after some independent research, multiple attempts, and support from another student in our cohort, we achieved full functionality.
+
